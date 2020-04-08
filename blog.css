@@ -1,0 +1,70 @@
+.intro-header {
+    font-family: cursive;
+    text-align: center;
+}
+.intro-header h6 {
+    color: royalblue;
+}
+.intro-body {
+    list-style-position: inside;
+    text-align: left;
+    width: 100px;
+    margin: 0 auto; 
+    position: relative;
+}
+.intro-footer {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+    margin: auto;
+    background-color: tan;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.intro-footer p {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+#first {
+    border-bottom-right-radius: 10px;
+    margin-bottom: 20px;
+}
+#second {
+    border-bottom-right-radius: 10px;
+    margin-bottom: 20px;
+}
+#third {
+    border-bottom-right-radius: 10px;
+    margin-bottom: 20px;
+}
+#fourth {
+    margin-bottom: 20px;
+}
+#fifth {
+    margin-bottom: 20px;
+    margin-right: -100px;
+}#sixth {
+    margin-top: 30px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+.intro-add {
+    list-style-position: inside;
+    text-align: left;
+    width: 100px;
+    margin: auto; 
+    position: relative;
+}
+.intro-all {
+    border: 1px solid tan; 
+    border-radius: 0px;
+    border-width: 10px;
+    width: 500px;
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 10px;
+}
